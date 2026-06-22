@@ -9,10 +9,10 @@ namespace BankSystem.CEOFolder
 {
     public interface ICeo
     {
-        void control();  
-        void organize();  
-        void makeMeeting();  
-        void decreasePercentage();  
+        void control(string fullname);  
+        void organize(string fullname);  
+        void makeMeeting(string fullname);  
+        void decreasePercentage(string fullname);  
     }
 
     public class Ceo : Employee, ICeo
@@ -20,10 +20,10 @@ namespace BankSystem.CEOFolder
         public Ceo(Guid id, string name, string surname, int age, string position, decimal salary) 
             : base(id, name, surname, age, position, salary) {  }
 
-        public void control() => Console.WriteLine("Ceo Control");
-        public void decreasePercentage() => Console.WriteLine("Ceo decrease Percentage");
-        public void makeMeeting()  => Console.WriteLine("Ceo make Meeting");
-        public void organize() => Console.WriteLine("Ceo organize");
+        public void control(string fullname) => Console.WriteLine($"{fullname} Control");
+        public void decreasePercentage(string fullname) => Console.WriteLine($"{fullname} decrease Percentage");
+        public void makeMeeting(string fullname)  => Console.WriteLine($"{fullname} make Meeting");
+        public void organize(string fullname) => Console.WriteLine($"{fullname} organize");
         public override string ToString() => @$"
 Id:             {_Id}
 Name:           {_Name}

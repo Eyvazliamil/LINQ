@@ -17,6 +17,10 @@ namespace BankSystem.OPERATIONFolder
             _processName = processName;
             _DateTime = dateTime;
         }
-
+        public override string ToString() => @$"
+Id:             {_Id}
+Process:        {_processName}
+Date & Time:    {_DateTime}
+";
     }
 }
