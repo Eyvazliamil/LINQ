@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\C#\\LinqMethods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29320579-50B1-B141-DAED-9DC71BAB7F9E}|SOLUTION20\\SOLUTION20.csproj|d:\\c#\\linqmethods\\solution20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29320579-50B1-B141-DAED-9DC71BAB7F9E}|SOLUTION20\\SOLUTION20.csproj|solutionrelative:solution20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BC6A8CE-BD3D-D9E8-D8AA-7A94DA670C9F}|LinqMethods\\LinqMethods.csproj|d:\\c#\\linqmethods\\linqmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BC6A8CE-BD3D-D9E8-D8AA-7A94DA670C9F}|LinqMethods\\LinqMethods.csproj|solutionrelative:linqmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29320579-50B1-B141-DAED-9DC71BAB7F9E}|SOLUTION20\\SOLUTION20.csproj|d:\\c#\\linqmethods\\solution20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29320579-50B1-B141-DAED-9DC71BAB7F9E}|SOLUTION20\\SOLUTION20.csproj|solutionrelative:solution20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58B89A3E-FA10-4B18-9F39-0232E4B3CC4A}|SOLUTION19\\SOLUTION19.csproj|d:\\c#\\linqmethods\\solution19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,25 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C#\\LinqMethods\\SOLUTION20\\Program.cs",
-              "RelativeDocumentMoniker": "SOLUTION20\\Program.cs",
-              "ToolTip": "D:\\C#\\LinqMethods\\SOLUTION20\\Program.cs",
-              "RelativeToolTip": "SOLUTION20\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T12:45:54.63Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -91,15 +74,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\LinqMethods\\LinqMethods\\Program.cs",
               "RelativeDocumentMoniker": "LinqMethods\\Program.cs",
               "ToolTip": "D:\\C#\\LinqMethods\\LinqMethods\\Program.cs",
               "RelativeToolTip": "LinqMethods\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-29T12:36:32.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\LinqMethods\\SOLUTION20\\Program.cs",
+              "RelativeDocumentMoniker": "SOLUTION20\\Program.cs",
+              "ToolTip": "D:\\C#\\LinqMethods\\SOLUTION20\\Program.cs",
+              "RelativeToolTip": "SOLUTION20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T12:45:54.63Z",
               "EditorCaption": ""
             },
             {
@@ -112,8 +108,7 @@
               "RelativeToolTip": "SOLUTION19\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-29T12:36:29.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-29T12:36:29.182Z"
             }
           ]
         }
