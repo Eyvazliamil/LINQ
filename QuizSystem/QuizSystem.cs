@@ -119,12 +119,12 @@ namespace QuizSystem
 };
 
             short[] correctAnswersInds =
-      {
+    {
     1, 0, 1, 2, 1,
     0, 1, 2, 1, 0,
     1, 1, 0, 1, 2,
     0, 2, 1, 0, 2
-};
+    };
 
             for(int j = 0; j < questions.Length; j++)
             {
